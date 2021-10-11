@@ -1,0 +1,14 @@
+Présentation du logiciel Ardoise : 
+ 
+Simple à comprendre et intuitif le logiciel ardoise convient aussi aux enfants pour apprendre son utilisation, il suffit de sélectionner un des symboles élémentaire de dessin puis de tracer sur l'écran et aussi bien sûr, de l'utiliser avec un écran tactile.
+ 
+Dessiner avec votre souris sur l'espace de l'ardoise qui est située dans une de fenêtre de votre système d'utilisation avec le logiciel ardoise.
+ 
+Pour l'utiliser choisissez un élément de dessin spécifique dans la palette située à gauche de la fenêtre du logiciel ardoise.
+Choisissez avec les pictogrammes de cette palette les dessins que vous voulez représenter ou figurer.
+ 
+Déplacer le curseur de votre souris sur la fenêtre du logiciel ardoise puis cliquer avec le bouton gauche de votre souris pour dessiner avec cette palette. Déterminer l'apparence du dessin avec la palette des couleurs et le bouton gauche de votre souris si vous cliquez avec votre souris sur la palette chromatique  ou bien cliquer avec le droit de la souris sur cette fenêtre pour obtenir une palette monochrome.
+ 
+Appuyer sur la touche de fonction F1 pour obtenir le descriptif de l'aide concernant mon logiciel une fois qu'il est ouvert.
+ 
+Ce logiciel est écrit par denis bertin à Bourges dans le département du Cher    
